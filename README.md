@@ -33,7 +33,7 @@ src/
 Ensure you have the following installed on your system:
 
 * **Node.js** (>=14.x)
-* **npm** or **yarn**
+* **npm**
 
 ---
 
@@ -42,7 +42,7 @@ Ensure you have the following installed on your system:
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/simmode/game-api-backend.git
    cd game-api-backend
    ```
 
@@ -135,4 +135,4 @@ npm test
 
 ## Author
 
-Derek Simmons - simmdoe@gmail.com
+Derek Simmons - simmode@gmail.com
